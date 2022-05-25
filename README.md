@@ -16,11 +16,16 @@ Pre-requisites
 
 The components are the following: 
 -10k Ohm resistor 
+
 -Breadboard and jumper wires https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=Breadboard&results=151, https://www.optimusdigital.ro/ro/fire-fire-mufate/878-set-fire-mama-tata-40p-30-cm.html?search_query=fire&results=435
+
 -Jumper wires https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=fire&results=435
+
 -Raspberry Pi 3 Model B https://www.optimusdigital.ro/ro/placi-raspberry-pi/5091-raspberry-pi-3-model-b-plus.html?search_query=Raspberry+Pi+3+Model+B+&results=87
+
 -MicroSD card for Raspberry Pi OS https://www.optimusdigital.ro/ro/memorii/11528-panasonic-card-microsd-a1-original-de-32-gb-cu-noobs-pentru-raspberry-pi-4.html?search_query=MicroSD&results=87
--LED band
+
+-LED band https://www.optimusdigital.ro/en/led-bars/31-red-ledbar-with-10-segments.html
 
 Running
 
